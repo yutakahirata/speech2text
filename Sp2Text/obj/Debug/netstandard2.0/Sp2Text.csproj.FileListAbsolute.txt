@@ -1,0 +1,14 @@
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\bin\Debug\netstandard2.0\Sp2Text.deps.json
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\bin\Debug\netstandard2.0\Sp2Text.dll
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\bin\Debug\netstandard2.0\ref\Sp2Text.dll
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\bin\Debug\netstandard2.0\Sp2Text.pdb
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.csprojAssemblyReference.cache
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.csproj.CoreCompileInputs.cache
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.AssemblyInfoInputs.cache
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.AssemblyInfo.cs
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.dll
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\ref\Sp2Text.dll
+C:\Users\hirat\source\repos\Sp2Text\Sp2Text\obj\Debug\netstandard2.0\Sp2Text.pdb
